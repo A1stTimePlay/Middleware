@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Middleware", "Middleware\Middleware.csproj", "{93A7163D-CE69-4771-8A9A-46530DB22C89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application Setting and Configuration", "Application Setting and Configuration\Application Setting and Configuration.csproj", "{F9AC58C2-EBF9-4E7E-AD43-91D9A108BD74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application Setting and Configuration", "Application Setting and Configuration\Application Setting and Configuration.csproj", "{F9AC58C2-EBF9-4E7E-AD43-91D9A108BD74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filter and Attribute", "Filter and Attribute\Filter and Attribute.csproj", "{8723395C-A9A0-4339-833C-1C506A11945E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F9AC58C2-EBF9-4E7E-AD43-91D9A108BD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9AC58C2-EBF9-4E7E-AD43-91D9A108BD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9AC58C2-EBF9-4E7E-AD43-91D9A108BD74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8723395C-A9A0-4339-833C-1C506A11945E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8723395C-A9A0-4339-833C-1C506A11945E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8723395C-A9A0-4339-833C-1C506A11945E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8723395C-A9A0-4339-833C-1C506A11945E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
